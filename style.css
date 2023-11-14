@@ -1,5 +1,5 @@
 body {
-    background: paleturquoise
+    background: rgb(20, 150, 3)
 }
 
 h1 {
@@ -9,6 +9,7 @@ h1 {
 p {
     text-align: center;
 }
+
 strong{
-    color: black;
+    color: rgb(204, 127, 255)
 }
